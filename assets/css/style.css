@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+}
+#guessDiv{
+    padding: 10px;
+    margin: 80px;
+    background-color: rgb(248, 138, 3);
+    width: 50%;
+}
+.img-fluid {
+    margin-top: 80px;
+}
+.big-banner{
+    background-color: rgb(105, 0, 126);
+}
